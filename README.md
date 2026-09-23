@@ -91,6 +91,15 @@ I'm still learning, experimenting and figuring things out — one project at a t
     alt="HackerRank"
   />
 </a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://codolio.com/profile/rishabhknight">
+  <img
+    src="https://img.shields.io/badge/Codolio-Profile-6C63FF?style=for-the-badge&logo=linktree&logoColor=white"
+    height="42"
+    alt="Codolio"
+  />
+</a>
 
 </p>
 
